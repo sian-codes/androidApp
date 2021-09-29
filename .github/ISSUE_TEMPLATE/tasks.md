@@ -1,6 +1,6 @@
 ---
 name: Tasks
-about: Task to complete
+about: Tasks to complete
 title: ''
 labels: task
 assignees: ''
@@ -10,9 +10,3 @@ assignees: ''
 Epic:
 
 ### Description
-
-### Tasks
-
-- [] Task 1
-- [] Task 2
-- [] Task 3
